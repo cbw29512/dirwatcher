@@ -1,0 +1,4 @@
+.vscode/
+*.log
+*.txt
+.DS_STORE
