@@ -1,4 +1,7 @@
 .vscode/
 *.log
 *.txt
-.DS_STORE
+.DS_Store
+.env
+*.pyc
+__pycache__
